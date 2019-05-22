@@ -3,19 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" timestamp="1558497629141">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="22" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" timestamp="1558498622393">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="2" />
         <mark key="^" line="61" column="22" />
         <mark key="." line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558497658384">
-        <mark key="'" line="84" column="45" />
-        <mark key="[" line="85" column="12" />
-        <mark key="]" line="86" column="24" />
-        <mark key="^" line="86" column="24" />
-        <mark key="." line="86" column="24" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558499518238" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" timestamp="1558500072054">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1558494391850">
         <mark key="[" line="0" column="0" />
@@ -59,39 +60,56 @@
       <jump line="69" column="18" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
       <jump line="13" column="15" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/SelectablePotrait.tsx" />
       <jump line="84" column="45" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="45" column="0" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" />
+      <jump line="45" column="0" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3RyYWl0IGZyb20gIi4vU2VsZWN0YWJsZVBvdHJhaXQiOwo=</text>
+        <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3J0cmFpdCBmcm9tICIuL1NlbGVjdGFibGVQb3J0cmFpdCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBXaW5kb3dTY3JvbGxlciwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJVmlydHVhbGl6ZWRQb3J0cmFpdEdyaWRTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgPC9XaW5kb3dTY3JvbGxlcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFdpbmRvd1Njcm9sbGVyPgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>interface IVirtualizedPortraitGridState {
-  columnCount: number;
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3J0cmFpdCBmcm9tICIuL1NlbGVjdGFibGVQb3J0cmFpdCI7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxQb3RyYWl0R3JpZAogICAgICAgICAgICAgIGltYWdlcz17KGRhdGEuZmlsZXMgYXMgYW55W10pIHx8IFtdfQogICAgICAgICAgICAgIG9uTG9hZE1vcmU9e2xvYWRNb3JlKGZldGNoTW9yZSwgZGF0YSl9CiAgICAgICAgICAgIC8+</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFZpcnR1YWxpemVkUG9ydHJhaXRHcmlkIGZyb20gIi4vVmlydHVhbGl6ZWRQb3J0cmFpdEdyaWQiOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cm9vdFN0b3JlLm1vcmVJbWFnZXNMb2FkaW5nKCk7CgogICAgZmV0Y2hNb3JlKHsKICAgICAgdmFyaWFibGVzOiBnZXRQYXJhbWV0ZXJzKGRhdGEuZmlsZXMubGVuZ3RoKSwKICAgICAgdXBkYXRlUXVlcnk6ICgKICAgICAgICBwcmV2OiB7IGZpbGVzOiBGaWxlW10gfSwKICAgICAgICB7IGZldGNoTW9yZVJlc3VsdCB9OiB7IGZldGNoTW9yZVJlc3VsdD86IHsgZmlsZXM6IEZpbGVbXSB9IHwgdW5kZWZpbmVkIH0KICAgICAgKSA9PiB7CiAgICAgICAgcm9vdFN0b3JlLmRvbmVJbWFnZXNMb2FkaW5nKCk7CiAgICAgICAgaWYgKCFmZXRjaE1vcmVSZXN1bHQpIHJldHVybiBwcmV2OwoKICAgICAgICBjb25zdCBuZXdGaWxlcyA9IFsuLi5wcmV2LmZpbGVzLCAuLi5mZXRjaE1vcmVSZXN1bHQuZmlsZXNdOwoKICAgICAgICBjb25zdCBtZXJnZWREYXRhID0gT2JqZWN0LmFzc2lnbih7fSwgcHJldiwgewogICAgICAgICAgZmlsZXM6IG5ld0ZpbGVzCiAgICAgICAgfSk7CgogICAgICAgIHJldHVybiBtZXJnZWREYXRhOwogICAgICB9CiAgICB9IGFzIGFueSk7</text>
+        <text encoding="base64">PFZpcnR1YWxpemVkUG9ydHJhaXRHcmlkCiAgICAgICAgICBncmlkUHJvcHM9e3sKICAgICAgICAgICAgd2lkdGg6IDEwMDAsCiAgICAgICAgICAgIGhlaWdodDogMTAwMCwKICAgICAgICAgICAgY29sdW1uV2lkdGg6IDEwMCwKICAgICAgICAgICAgcm93SGVpZ2h0OiAxMDAsCiAgICAgICAgICAgIHJvd0NvdW50OiByb290U3RvcmUudWlTdGF0ZS50b3RhbENvdW50LAogICAgICAgICAgICBjb2x1bW5Db3VudDogMTAsCiAgICAgICAgICAgIGNlbGxSZW5kZXJlcjogKCkgPT4gPFNlbGVjdGFibGVQb3J0cmFpdCAvPgogICAgICAgICAgfX0KICAgICAgICAgIGNvbHVtbkNvdW50PXsxMH0KICAgICAgICAvPg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgICAgcm9vdFN0b3JlLm1vcmVJbWFnZXNMb2FkaW5nKCk7CgogICAgICAgICAgICAgICAgZmV0Y2hNb3JlKHsKICAgICAgICAgICAgICAgICAgdmFyaWFibGVzOiBnZXRQYXJhbWV0ZXJzKGRhdGEuZmlsZXMubGVuZ3RoKSwKICAgICAgICAgICAgICAgICAgdXBkYXRlUXVlcnk6ICgKICAgICAgICAgICAgICAgICAgICBwcmV2OiB7IGZpbGVzOiBGaWxlW10gfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICBmZXRjaE1vcmVSZXN1bHQKICAgICAgICAgICAgICAgICAgICB9OiB7IGZldGNoTW9yZVJlc3VsdD86IHsgZmlsZXM6IEZpbGVbXSB9IHwgdW5kZWZpbmVkIH0KICAgICAgICAgICAgICAgICAgKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgcm9vdFN0b3JlLmRvbmVJbWFnZXNMb2FkaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFmZXRjaE1vcmVSZXN1bHQpIHJldHVybiBwcmV2OwoKICAgICAgICAgICAgICAgICAgICBjb25zdCBuZXdGaWxlcyA9IFsuLi5wcmV2LmZpbGVzLCAuLi5mZXRjaE1vcmVSZXN1bHQuZmlsZXNdOwoKICAgICAgICAgICAgICAgICAgICBjb25zdCBtZXJnZWREYXRhID0gT2JqZWN0LmFzc2lnbih7fSwgcHJldiwgewogICAgICAgICAgICAgICAgICAgICAgZmlsZXM6IG5ld0ZpbGVzCiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiBtZXJnZWREYXRhOwogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGFzIGFueSk7CiAgICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7IiAifQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17c3R5bGV9PgogICAgICAgIDxpbWcKICAgICAgICAgIHNyYz17ZGF0dW0uc291cmNlfQogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgaGVpZ2h0OiBkYXR1bS5pbWFnZUhlaWdodCwKICAgICAgICAgICAgd2lkdGg6IGRhdHVtLmltYWdlV2lkdGgKICAgICAgICAgIH19CiAgICAgICAgLz4KICAgICAgICA8aDQ+e2RhdHVtLmNhcHRpb259PC9oND4KICAgICAgPC9kaXY+</text>
+      </register>
+      <register name="9" type="4">
+        <text>cache = new CellMeasurerCache({
+    defaultHeight: 250,
+    defaultWidth: 200,
+    fixedWidth: true
+  });
+
+  cellPositioner = createMasonryCellPositioner({
+    cellMeasurerCache: cache,
+    columnCount: 3,
+    columnWidth: 200,
+    spacer: 10
+  });</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>length</text>
       </register>
     </registers>
     <search>
@@ -102,12 +120,13 @@
       <history-search />
       <history-cmd>
         <entry>action GotoAction</entry>
+        <entry>action CloseEditor</entry>
         <entry>action NextTab</entry>
-        <entry>wa</entry>
         <entry>action PreviousTab</entry>
         <entry>action RecentFiles</entry>
         <entry>action ReformatWithPrettierAction</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,6 +143,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
