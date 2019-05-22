@@ -18,17 +18,19 @@
         <mark key="^" line="61" column="22" />
         <mark key="." line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558508030118">
-        <mark key="[" line="80" column="52" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="52" />
-        <mark key="^" line="80" column="52" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558535971645">
+        <mark key="'" line="37" column="40" />
+        <mark key="[" line="92" column="29" />
+        <mark key="]" line="92" column="32" />
+        <mark key="." line="92" column="32" />
+        <mark key="^" line="92" column="32" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" timestamp="1558509382437">
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="56" column="33" />
-        <mark key="^" line="56" column="33" />
-        <mark key="." line="56" column="33" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" timestamp="1558536222185">
+        <mark key="'" line="62" column="14" />
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="58" />
+        <mark key="." line="7" column="58" />
+        <mark key="^" line="7" column="58" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1558494391850">
         <mark key="[" line="0" column="0" />
@@ -44,8 +46,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/Counts.tsx" timestamp="1558497126089">
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/Counts.tsx" timestamp="1558535230865">
         <mark key="'" line="22" column="27" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" timestamp="1558497350561">
         <mark key="'" line="332" column="23" />
@@ -88,52 +92,60 @@
       <jump line="76" column="101" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
       <jump line="94" column="32" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
       <jump line="81" column="14" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="109" column="17" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="11" column="9" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="37" column="40" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="6" column="13" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/utils/index.ts" />
+      <jump line="9" column="8" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
+      <jump line="62" column="14" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkTW9yZVw+</text>
+        <text encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3J0cmFpdCBmcm9tICIuL1NlbGVjdGFibGVQb3J0cmFpdCI7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDxGaWxlU2VhcmNoQ291bnRDb21wb25lbnQKICAgICAgICAgIHZhcmlhYmxlcz17Z2V0UGFyYW1ldGVycyhwcm9wcyl9CiAgICAgICAgICBvbkNvbXBsZXRlZD17KGRhdGE6IGFueSkgPT4gewogICAgICAgICAgICByb290U3RvcmUuc2V0VG90YWxDb3VudChkYXRhLnRvdGFsQ291bnQpOwogICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICB7KHsgbG9hZGluZywgZXJyb3IsIGRhdGEgfSkgPT4gewogICAgICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIGBMb2FkaW5nLi4uLmA7CiAgICAgICAgICAgIGlmIChlcnJvcikgcmV0dXJuIGBFcnJvciEgJHtlcnJvci5tZXNzYWdlfWA7CgogICAgICAgICAgICByZXR1cm4gZGF0YSAmJiBkYXRhLnRvdGFsQ291bnQ7CiAgICAgICAgICB9fQogICAgICAgIDwvRmlsZVNlYXJjaENvdW50Q29tcG9uZW50Pg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCJpbnZva2VkIik7CiAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgxMCk7CiAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgd2lkdGggfSBmcm9tICJzdHlsZWQtc3lzdGVtIjsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICAgIGxvYWRNb3JlKGZldGNoTW9yZSwgZGF0YSkoKS50aGVuKHJlc29sdmUpOwogICAgICAgICAgICB9KQ==</text>
+        <text encoding="base64">PFZpcnR1YWxpemVkTWFzb25yeQogICAgICAgICAgaXRlbUNvdW50PXsgcm9vdFN0b3JlLnVpU3RhdGUudG90YWxDb3VudCB9CiAgICAgICAgICBkYXRhPXtkYXRhfQogICAgICAgICAgbG9hZE1vcmVJdGVtcz17KHZpc2libGVTdGFydEluZGV4LCB2aXNpYmxlU3RvcEluZGV4KSA9PiB7CiAgICAgICAgICAgIC8vIGlmIHRoZSBpdGVtIGlzIGFscmVhZHkgbG9hZGVkCiAgICAgICAgICAgIGlmICh2aXNpYmxlU3RvcEluZGV4IDwgZGF0YS5maWxlcy5sZW5ndGgpIHJldHVybiBQcm9taXNlLnJlc29sdmUoMCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKAogICAgICAgICAgICAgIGBWaXNpYmxlU3RhcnRJbmRleCAke3Zpc2libGVTdGFydEluZGV4fSB2aXNpYmxlU3RvcEluZGV4ICR7dmlzaWJsZVN0b3BJbmRleH1gCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgICAgICAgICAgbG9hZE1vcmUoZmV0Y2hNb3JlLCBkYXRhKSgpLnRoZW4ocmVzb2x2ZSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfX0KICAgICAgICAvPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLmZpbGVzW3Jvd0luZGV4XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICgKICA8ZGl2IHN0eWxlPXtzdHlsZX0+CiAgICA8U2VsZWN0YWJsZVBvcnRyYWl0IGtleT17cm93SW5kZXh9IGl0ZW09e2RhdGEuZmlsZXNbcm93SW5kZXhdfSAvPgogIDwvZGl2PgopOw==</text>
+        <text>!== 0
+              ? rootStore.uiState.totalCount
+              :</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgQXR0ZW1wdCB0byByZW5kZXIgY2VsbCBgKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoPXsxOTAwfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">KAogICAgICAgIDxHcmlkCiAgICAgICAgICBvbkl0ZW1zUmVuZGVyZWQ9e2dldEdyaWRPbkl0ZW1zUmVuZGVyZWQob25JdGVtc1JlbmRlcmVkKX0KICAgICAgICAgIHJlZj17cmVmfQogICAgICAgICAgY29sdW1uQ291bnQ9e2NvbHVtbkNvdW50fQogICAgICAgICAgY29sdW1uV2lkdGg9ezEwMH0KICAgICAgICAgIGhlaWdodD17ODAwfQogICAgICAgICAgcm93Q291bnQ9e2l0ZW1Db3VudCAvIGNvbHVtbkNvdW50fQogICAgICAgICAgcm93SGVpZ2h0PXsxMDB9CiAgICAgICAgICB3aWR0aD17MTkwMH0KICAgICAgICA+CiAgICAgICAgICB7Q2VsbChkYXRhKX0KICAgICAgICA8L0dyaWQ+CiAgICAgICk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvd0hlaWdodD17MTAwfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCJpbnZva2VkIik7CiAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgxMCk7CiAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJvd0NvdW50PXsyMDB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">bmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICAgIGxvYWRNb3JlKGZldGNoTW9yZSwgZGF0YSkoKS50aGVuKHJlc29sdmUpOwogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodD17ODAwfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLmZpbGVzW3Jvd0luZGV4XSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkTW9yZVw+</last-search>
+      <last-search encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkTW9yZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -143,6 +155,7 @@
         <entry>fetchMore</entry>
         <entry encoding="base64">XDxmZXRjaE1vcmVcPg==</entry>
         <entry encoding="base64">XDxsb2FkTW9yZVw+</entry>
+        <entry encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoAction</entry>
@@ -150,8 +163,8 @@
         <entry>action RecentFiles</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>wa</entry>
         <entry>action ReformatWithPrettierAction</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
