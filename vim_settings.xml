@@ -3,26 +3,95 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" timestamp="1558497629141">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="61" column="22" />
+        <mark key="]" line="61" column="22" />
+        <mark key="^" line="61" column="22" />
+        <mark key="." line="61" column="22" />
+      </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558497658384">
+        <mark key="'" line="84" column="45" />
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="86" column="24" />
+        <mark key="^" line="86" column="24" />
+        <mark key="." line="86" column="24" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1558494391850">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPotraitGrid.tsx" timestamp="1558494988921">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPotraitGrid.tsx" timestamp="1558496665697">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="68" column="28" />
+        <mark key="^" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+      </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/Counts.tsx" timestamp="1558497126089">
+        <mark key="'" line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" timestamp="1558497350561">
+        <mark key="'" line="332" column="23" />
+      </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/PotraitGrid.tsx" timestamp="1558497500850">
+        <mark key="'" line="32" column="22" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
     </filemarks>
     <jumps>
       <jump line="18" column="12" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPotraitGrid.tsx" />
+      <jump line="4" column="19" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPotraitGrid.tsx" />
+      <jump line="0" column="18" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="6" column="42" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="157" column="28" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" />
+      <jump line="22" column="27" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/Counts.tsx" />
+      <jump line="74" column="59" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="12" column="16" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" />
+      <jump line="327" column="22" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" />
+      <jump line="83" column="24" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="332" column="23" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" />
+      <jump line="26" column="12" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" />
+      <jump line="32" column="22" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/PotraitGrid.tsx" />
+      <jump line="8" column="9" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/SelectablePotrait.tsx" />
+      <jump line="69" column="18" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="13" column="15" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/SelectablePotrait.tsx" />
+      <jump line="84" column="45" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3RyYWl0IGZyb20gIi4vU2VsZWN0YWJsZVBvdHJhaXQiOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBJVmlydHVhbGl6ZWRQb3J0cmFpdEdyaWRTdGF0ZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>interface IVirtualizedPortraitGridState {
+  columnCount: number;
+}</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxQb3RyYWl0R3JpZAogICAgICAgICAgICAgIGltYWdlcz17KGRhdGEuZmlsZXMgYXMgYW55W10pIHx8IFtdfQogICAgICAgICAgICAgIG9uTG9hZE1vcmU9e2xvYWRNb3JlKGZldGNoTW9yZSwgZGF0YSl9CiAgICAgICAgICAgIC8+</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cm9vdFN0b3JlLm1vcmVJbWFnZXNMb2FkaW5nKCk7CgogICAgZmV0Y2hNb3JlKHsKICAgICAgdmFyaWFibGVzOiBnZXRQYXJhbWV0ZXJzKGRhdGEuZmlsZXMubGVuZ3RoKSwKICAgICAgdXBkYXRlUXVlcnk6ICgKICAgICAgICBwcmV2OiB7IGZpbGVzOiBGaWxlW10gfSwKICAgICAgICB7IGZldGNoTW9yZVJlc3VsdCB9OiB7IGZldGNoTW9yZVJlc3VsdD86IHsgZmlsZXM6IEZpbGVbXSB9IHwgdW5kZWZpbmVkIH0KICAgICAgKSA9PiB7CiAgICAgICAgcm9vdFN0b3JlLmRvbmVJbWFnZXNMb2FkaW5nKCk7CiAgICAgICAgaWYgKCFmZXRjaE1vcmVSZXN1bHQpIHJldHVybiBwcmV2OwoKICAgICAgICBjb25zdCBuZXdGaWxlcyA9IFsuLi5wcmV2LmZpbGVzLCAuLi5mZXRjaE1vcmVSZXN1bHQuZmlsZXNdOwoKICAgICAgICBjb25zdCBtZXJnZWREYXRhID0gT2JqZWN0LmFzc2lnbih7fSwgcHJldiwgewogICAgICAgICAgZmlsZXM6IG5ld0ZpbGVzCiAgICAgICAgfSk7CgogICAgICAgIHJldHVybiBtZXJnZWREYXRhOwogICAgICB9CiAgICB9IGFzIGFueSk7</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgICAgcm9vdFN0b3JlLm1vcmVJbWFnZXNMb2FkaW5nKCk7CgogICAgICAgICAgICAgICAgZmV0Y2hNb3JlKHsKICAgICAgICAgICAgICAgICAgdmFyaWFibGVzOiBnZXRQYXJhbWV0ZXJzKGRhdGEuZmlsZXMubGVuZ3RoKSwKICAgICAgICAgICAgICAgICAgdXBkYXRlUXVlcnk6ICgKICAgICAgICAgICAgICAgICAgICBwcmV2OiB7IGZpbGVzOiBGaWxlW10gfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICBmZXRjaE1vcmVSZXN1bHQKICAgICAgICAgICAgICAgICAgICB9OiB7IGZldGNoTW9yZVJlc3VsdD86IHsgZmlsZXM6IEZpbGVbXSB9IHwgdW5kZWZpbmVkIH0KICAgICAgICAgICAgICAgICAgKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgcm9vdFN0b3JlLmRvbmVJbWFnZXNMb2FkaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFmZXRjaE1vcmVSZXN1bHQpIHJldHVybiBwcmV2OwoKICAgICAgICAgICAgICAgICAgICBjb25zdCBuZXdGaWxlcyA9IFsuLi5wcmV2LmZpbGVzLCAuLi5mZXRjaE1vcmVSZXN1bHQuZmlsZXNdOwoKICAgICAgICAgICAgICAgICAgICBjb25zdCBtZXJnZWREYXRhID0gT2JqZWN0LmFzc2lnbih7fSwgcHJldiwgewogICAgICAgICAgICAgICAgICAgICAgZmlsZXM6IG5ld0ZpbGVzCiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiBtZXJnZWREYXRhOwogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGFzIGFueSk7CiAgICAgICAgICAgICAgfQ==</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
@@ -32,8 +101,12 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>action GotoAction</entry>
+        <entry>action NextTab</entry>
+        <entry>wa</entry>
         <entry>action PreviousTab</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ReformatWithPrettierAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -45,6 +118,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
