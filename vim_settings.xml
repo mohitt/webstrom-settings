@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/Potrait.tsx" timestamp="1558503507070">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/react-apollo/Query.d.ts" timestamp="1558507177226">
+        <mark key="'" line="63" column="12" />
+      </file>
       <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" timestamp="1558498622393">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="10" column="0" />
@@ -10,13 +18,17 @@
         <mark key="^" line="61" column="22" />
         <mark key="." line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558499518238" />
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" timestamp="1558500072054">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="9" column="35" />
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" timestamp="1558508030118">
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="80" column="52" />
+        <mark key="." line="80" column="52" />
+        <mark key="^" line="80" column="52" />
+      </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" timestamp="1558509382437">
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="56" column="33" />
+        <mark key="^" line="56" column="33" />
+        <mark key="." line="56" column="33" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1558494391850">
         <mark key="[" line="0" column="0" />
@@ -28,16 +40,20 @@
         <mark key="^" line="68" column="28" />
         <mark key="." line="68" column="28" />
       </file>
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/SelectablePortrait.tsx" timestamp="1558505249868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/Counts.tsx" timestamp="1558497126089">
         <mark key="'" line="22" column="27" />
       </file>
       <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/@types/react-virtualized/dist/es/Grid.d.ts" timestamp="1558497350561">
         <mark key="'" line="332" column="23" />
       </file>
-      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/PotraitGrid.tsx" timestamp="1558497500850">
+      <file name="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/PotraitGrid.tsx" timestamp="1558503208939">
         <mark key="'" line="32" column="22" />
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="54" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
@@ -62,71 +78,81 @@
       <jump line="84" column="45" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
       <jump line="45" column="0" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedPortraitGrid.tsx" />
       <jump line="45" column="0" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
+      <jump line="4" column="19" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
+      <jump line="1" column="50" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
+      <jump line="7" column="10" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/VirtualizedMasonry.tsx" />
+      <jump line="13" column="15" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/SelectablePortrait.tsx" />
+      <jump line="86" column="36" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="79" column="13" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="63" column="12" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/node_modules/react-apollo/Query.d.ts" />
+      <jump line="76" column="101" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="94" column="32" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
+      <jump line="81" column="14" filename="$USER_HOME$/uw/diverse-pro/classifier/app/web-ui/src/components/results/ConnectedPotraitGrid.tsx" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsb2FkTW9yZVw+</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3J0cmFpdCBmcm9tICIuL1NlbGVjdGFibGVQb3J0cmFpdCI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBXaW5kb3dTY3JvbGxlciwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCJpbnZva2VkIik7CiAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgxMCk7CiAgICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9XaW5kb3dTY3JvbGxlcj4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICAgIGxvYWRNb3JlKGZldGNoTW9yZSwgZGF0YSkoKS50aGVuKHJlc29sdmUpOwogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFdpbmRvd1Njcm9sbGVyPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhLmZpbGVzW3Jvd0luZGV4XSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFNlbGVjdGFibGVQb3J0cmFpdCBmcm9tICIuL1NlbGVjdGFibGVQb3J0cmFpdCI7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICgKICA8ZGl2IHN0eWxlPXtzdHlsZX0+CiAgICA8U2VsZWN0YWJsZVBvcnRyYWl0IGtleT17cm93SW5kZXh9IGl0ZW09e2RhdGEuZmlsZXNbcm93SW5kZXhdfSAvPgogIDwvZGl2PgopOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFZpcnR1YWxpemVkUG9ydHJhaXRHcmlkIGZyb20gIi4vVmlydHVhbGl6ZWRQb3J0cmFpdEdyaWQiOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PFZpcnR1YWxpemVkUG9ydHJhaXRHcmlkCiAgICAgICAgICBncmlkUHJvcHM9e3sKICAgICAgICAgICAgd2lkdGg6IDEwMDAsCiAgICAgICAgICAgIGhlaWdodDogMTAwMCwKICAgICAgICAgICAgY29sdW1uV2lkdGg6IDEwMCwKICAgICAgICAgICAgcm93SGVpZ2h0OiAxMDAsCiAgICAgICAgICAgIHJvd0NvdW50OiByb290U3RvcmUudWlTdGF0ZS50b3RhbENvdW50LAogICAgICAgICAgICBjb2x1bW5Db3VudDogMTAsCiAgICAgICAgICAgIGNlbGxSZW5kZXJlcjogKCkgPT4gPFNlbGVjdGFibGVQb3J0cmFpdCAvPgogICAgICAgICAgfX0KICAgICAgICAgIGNvbHVtbkNvdW50PXsxMH0KICAgICAgICAvPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoPXsxOTAwfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7IiAifQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJvd0hlaWdodD17MTAwfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17c3R5bGV9PgogICAgICAgIDxpbWcKICAgICAgICAgIHNyYz17ZGF0dW0uc291cmNlfQogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgaGVpZ2h0OiBkYXR1bS5pbWFnZUhlaWdodCwKICAgICAgICAgICAgd2lkdGg6IGRhdHVtLmltYWdlV2lkdGgKICAgICAgICAgIH19CiAgICAgICAgLz4KICAgICAgICA8aDQ+e2RhdHVtLmNhcHRpb259PC9oND4KICAgICAgPC9kaXY+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJvd0NvdW50PXsyMDB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>cache = new CellMeasurerCache({
-    defaultHeight: 250,
-    defaultWidth: 200,
-    fixedWidth: true
-  });
-
-  cellPositioner = createMasonryCellPositioner({
-    cellMeasurerCache: cache,
-    columnCount: 3,
-    columnWidth: 200,
-    spacer: 10
-  });</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodD17ODAwfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
-      </register>
-      <register name="-" type="4">
-        <text>length</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxsb2FkTW9yZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsb2FkTW9yZVw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>export</entry>
+        <entry>fetchMore</entry>
+        <entry encoding="base64">XDxmZXRjaE1vcmVcPg==</entry>
+        <entry encoding="base64">XDxsb2FkTW9yZVw+</entry>
+      </history-search>
       <history-cmd>
         <entry>action GotoAction</entry>
         <entry>action CloseEditor</entry>
+        <entry>action RecentFiles</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>action RecentFiles</entry>
+        <entry>wa</entry>
         <entry>action ReformatWithPrettierAction</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,6 +172,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
