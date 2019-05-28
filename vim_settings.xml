@@ -61,6 +61,9 @@
         <mark key="^" line="50" column="1" />
         <mark key="." line="50" column="1" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" timestamp="1559083810334">
+        <mark key="'" line="57" column="28" />
+      </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/name-editor.html" timestamp="1558474493917">
         <mark key="'" line="15" column="25" />
       </file>
@@ -77,15 +80,17 @@
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Document/SupplementalDocumentView.ts" timestamp="1557254916648">
         <mark key="'" line="213" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557948948073">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/envelopes.js" timestamp="1557781814806">
         <mark key="'" line="26" column="55" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/common/common.js" timestamp="1557781424138">
+      <file name="$USER_HOME$/office-work/martini-app/angular/common/common.js" timestamp="1558494489336">
         <mark key="'" line="47" column="6" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Utility/angularViewHookUtil.ts" timestamp="1559083952680" />
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/tagger/singletons/actionManager.js" timestamp="1557255411909">
         <mark key="'" line="487" column="3" />
       </file>
@@ -139,13 +144,12 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/API/APIWrapper.js" timestamp="1557949748164">
         <mark key="'" line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Tagger/Core/PaintBrush.ts" timestamp="1559084237769" />
       <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
         <mark key="'" line="76" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="4" filename="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" />
-      <jump line="154" column="6" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Moderation/EnvelopeModerator.ts" />
       <jump line="249" column="0" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Moderation/EnvelopeModerator.ts" />
       <jump line="4" column="65" filename="$USER_HOME$/office-work/prepare/src/Tagger/Plugin/PreviewSupplementalDocument.ts" />
       <jump line="76" column="47" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" />
@@ -244,6 +248,8 @@
       <jump line="19" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/edit-custom-tab-input.html" />
       <jump line="93" column="47" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/CustomTabEditorInput.ts" />
       <jump line="15" column="25" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/name-editor.html" />
+      <jump line="57" column="28" filename="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" />
+      <jump line="25" column="15" filename="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/PageMarkupView.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -259,19 +265,19 @@
         <text encoding="base64">bm1hcCA8TGVhZGVyPnAgIDphY3Rpb24gUmVmb3JtYXRXaXRoUHJldHRpZXJBY3Rpb248Q1I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGN0ZWktZHF3LW51bWJlcj0iaW5wdXQuaXNOdW1iZXIiCg==</text>
+        <text encoding="base64">ICAgICAgMTQyZGVmMTc2M2Q2MDNjZDg3NTJmMjM1YTk4ODg1ZWVmZmFhZDBmYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm1hcCA8RjQ+IDpzZXQgaGxzZWFyY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGN0ZWktZHF3LW51bWJlcj0iaW5wdXQuaXNOdW1iZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0IG51Cg==</text>
+        <text encoding="base64">bm1hcCA8RjQ+IDpzZXQgaGxzZWFyY2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm1hcCA8RjM+IDp2ZXIK</text>
+        <text encoding="base64">c2V0IG51Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">bm1hcCA8RjM+IDp2ZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQHRzLWlnbm9yZQo=</text>
@@ -280,10 +286,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0B0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0B0cy1pZ25vcmUK</text>
       </register>
       <register name=":" type="4">
         <text>action NextTab</text>
