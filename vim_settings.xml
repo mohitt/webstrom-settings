@@ -61,6 +61,9 @@
         <mark key="^" line="50" column="1" />
         <mark key="." line="50" column="1" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559086523376">
+        <mark key="'" line="40" column="4" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" timestamp="1559083810334">
         <mark key="'" line="57" column="28" />
       </file>
@@ -79,6 +82,9 @@
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Document/SupplementalDocumentView.ts" timestamp="1557254916648">
         <mark key="'" line="213" column="15" />
+      </file>
+      <file name="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" timestamp="1559086649303">
+        <mark key="'" line="314" column="9" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/envelopes.js" timestamp="1557781814806">
         <mark key="'" line="26" column="55" />
@@ -150,10 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="0" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Moderation/EnvelopeModerator.ts" />
-      <jump line="4" column="65" filename="$USER_HOME$/office-work/prepare/src/Tagger/Plugin/PreviewSupplementalDocument.ts" />
-      <jump line="76" column="47" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" />
-      <jump line="55" column="16" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/controllers/PrepareController.js" />
       <jump line="263" column="8" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/controllers/PrepareController.js" />
       <jump line="42" column="6" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/controllers/PrepareController.js" />
       <jump line="144" column="49" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/controllers/PrepareController.js" />
@@ -250,6 +252,10 @@
       <jump line="15" column="25" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/name-editor.html" />
       <jump line="57" column="28" filename="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" />
       <jump line="25" column="15" filename="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/PageMarkupView.ts" />
+      <jump line="40" column="4" filename="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" />
+      <jump line="382" column="9" filename="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" />
+      <jump line="314" column="9" filename="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -259,7 +265,7 @@
         <text>ActiveTab</text>
       </register>
       <register name="/" type="4">
-        <text>sizeSe</text>
+        <text>tabs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bm1hcCA8TGVhZGVyPnAgIDphY3Rpb24gUmVmb3JtYXRXaXRoUHJldHRpZXJBY3Rpb248Q1I+Cg==</text>
@@ -292,20 +298,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0B0cy1pZ25vcmUK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action ReformatWithPrettierAction</text>
       </register>
     </registers>
     <search>
-      <last-search>sizeSe</last-search>
+      <last-search>tabs</last-search>
       <last-offset />
-      <last-pattern>sizeSe</last-pattern>
+      <last-pattern>tabs</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>continue</entry>
-        <entry>saveAndResend</entry>
         <entry>reconcileSupple</entry>
         <entry encoding="base64">XDxyZWNvbmNpbGVTdXBwbGVtZW50YWxEb2N1bWVudFRhYnNcPg==</entry>
         <entry encoding="base64">XDxwcmVwYXJlU3VwcGxlbWVudGFsRG9jdW1lbnRzRm9yU2F2ZVw+</entry>
@@ -324,6 +328,8 @@
         <entry>basic</entry>
         <entry>wi:wa</entry>
         <entry>sizeSe</entry>
+        <entry encoding="base64">XDxhbGxvd1N1cHBsZW1lbnRhbERvY3VtZW50c1w+</entry>
+        <entry>tabs</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.ideavimrc</entry>
@@ -331,7 +337,6 @@
         <entry>action GotoAction</entry>
         <entry>action ReformatWithPrettier</entry>
         <entry>action ShowUsages</entry>
-        <entry>action ReformatWithPrettierAction</entry>
         <entry>!ls</entry>
         <entry encoding="base64">YWN0aW9ubGlzdCA+IG91dHB1dC50eHQ=</entry>
         <entry>e output.txt</entry>
@@ -346,6 +351,7 @@
         <entry>action CloseEditor</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action ReformatWithPrettierAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
