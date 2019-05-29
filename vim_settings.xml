@@ -61,8 +61,10 @@
         <mark key="^" line="50" column="1" />
         <mark key="." line="50" column="1" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559086523376">
+      <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559149110860">
         <mark key="'" line="40" column="4" />
+        <mark key="[" line="226" column="4" />
+        <mark key="]" line="226" column="25" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" timestamp="1559083810334">
         <mark key="'" line="57" column="28" />
@@ -261,14 +263,17 @@
       <register name="&quot;" type="2">
         <text encoding="base64">bm1hcCA8RjM+IDp2ZXIK</text>
       </register>
+      <register name="*" type="4">
+        <text>enableJPMCQuickSendFix</text>
+      </register>
       <register name="-" type="4">
         <text>ActiveTab</text>
       </register>
       <register name="/" type="4">
         <text>tabs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bm1hcCA8TGVhZGVyPnAgIDphY3Rpb24gUmVmb3JtYXRXaXRoUHJldHRpZXJBY3Rpb248Q1I+Cg==</text>
+      <register name="0" type="4">
+        <text>enableJPMCQuickSendFix</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgMTQyZGVmMTc2M2Q2MDNjZDg3NTJmMjM1YTk4ODg1ZWVmZmFhZDBmYwo=</text>
