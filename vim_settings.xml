@@ -159,11 +159,11 @@
         <mark key="'" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/Core/PaintBrush.ts" timestamp="1559084237769" />
-      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1559332133621">
-        <mark key="[" line="261" column="38" />
-        <mark key="]" line="261" column="47" />
-        <mark key="^" line="261" column="47" />
-        <mark key="." line="261" column="47" />
+      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1559333718132">
+        <mark key="[" line="257" column="69" />
+        <mark key="]" line="257" column="94" />
+        <mark key="^" line="257" column="94" />
+        <mark key="." line="257" column="94" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
         <mark key="'" line="76" column="47" />
