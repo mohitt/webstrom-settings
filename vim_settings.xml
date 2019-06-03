@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/office-work/prepare/src/Components/PrepareHeader/PrepareHeader.ts" timestamp="1557946200461">
         <mark key="'" line="204" column="14" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" timestamp="1559592800371">
+        <mark key="'" line="568" column="41" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559149110860">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="227" column="4" />
@@ -82,8 +85,8 @@
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Moderation/EnvelopeModerator.ts" timestamp="1557947120161">
         <mark key="'" line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Prepare/Prepare.ts" timestamp="1557864402376">
-        <mark key="'" line="551" column="12" />
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Prepare/Prepare.ts" timestamp="1559592692558">
+        <mark key="'" line="297" column="48" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1557957192005">
         <mark key="'" line="0" column="0" />
@@ -185,16 +188,11 @@
         <mark key="^" line="257" column="63" />
         <mark key="." line="257" column="63" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/AllEnvelopeModels.ts" timestamp="1559592805250">
+        <mark key="'" line="25" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="2" filename="$USER_HOME$/office-work/martini-app/angular/preferences/custom-fields/custom-field-list-controller.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/package.json" />
-      <jump line="22" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/CustomFields/edit-custom-fields.html" />
-      <jump line="99" column="32" filename="$USER_HOME$/office-work/martini-app/angular/preferences/custom-fields/custom-field-list-controller.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="85" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="48" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="198" column="45" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
       <jump line="80" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/CustomFields/EditCustomFields.ts" />
       <jump line="20" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/CustomFields/edit-custom-fields.html" />
       <jump line="549" column="41" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
@@ -287,6 +285,14 @@
       <jump line="200" column="12" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
       <jump line="318" column="0" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
       <jump line="322" column="15" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="297" column="48" filename="$USER_HOME$/office-work/prepare/src/Components/Prepare/Prepare.ts" />
+      <jump line="698" column="28" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="469" column="28" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="133" column="8" filename="$USER_HOME$/office-work/prepare/node_modules/@types/backbone/index.d.ts" />
+      <jump line="620" column="28" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="619" column="28" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="568" column="41" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="25" column="21" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/AllEnvelopeModels.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
