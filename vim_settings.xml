@@ -13,17 +13,8 @@
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Comment/CommentProxy.ts" timestamp="1557953492532">
         <mark key="'" line="53" column="57" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Page/PageModel.ts" timestamp="1552337092069">
-        <mark key="'" line="16" column="25" />
-      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/Comments/CommentMessageView/CommentMessageView.ts" timestamp="1557953589164">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Moderation/EnvelopeModerator.ts" timestamp="1557947120161">
-        <mark key="'" line="249" column="0" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Prepare/Prepare.ts" timestamp="1557864402376">
-        <mark key="'" line="551" column="12" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Envelope/EnvelopeModel.ts" timestamp="1557951496739">
         <mark key="'" line="272" column="17" />
@@ -33,6 +24,66 @@
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/Interaction/recipientDocumentInteractions.ts" timestamp="1557867811995">
         <mark key="'" line="365" column="4" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Components/PrepareHeader/PrepareHeader.ts" timestamp="1557946200461">
+        <mark key="'" line="204" column="14" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559149110860">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="227" column="4" />
+        <mark key="]" line="227" column="25" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Document/SupplementalDocumentView.ts" timestamp="1557254916648">
+        <mark key="'" line="213" column="15" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Tagger/Plugin/PreviewSupplementalDocument.ts" timestamp="1557776206545">
+        <mark key="'" line="4" column="65" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1559270644074">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" timestamp="1557946791311">
+        <mark key="'" line="674" column="11" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/CustomTabEditorInput.ts" timestamp="1557955894634">
+        <mark key="'" line="89" column="47" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" timestamp="1559590141097">
+        <mark key="'" line="322" column="15" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" timestamp="1559589086337">
+        <mark key="'" line="243" column="37" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/controllers/PrepareController.js" timestamp="1557777272009">
+        <mark key="'" line="327" column="19" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/package.json" timestamp="1557952011700">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/SupplementalDocumentPropertiesPanel/SupplementalDocumentPropertiesPanel.ts" timestamp="1557871695139">
+        <mark key="'" line="84" column="47" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Core/SvgView.ts" timestamp="1557254864822">
+        <mark key="'" line="567" column="33" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
+        <mark key="'" line="76" column="47" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Page/PageModel.ts" timestamp="1552337092069">
+        <mark key="'" line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentProxy.ts" timestamp="1559589943656">
+        <mark key="'" line="159" column="11" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Moderation/EnvelopeModerator.ts" timestamp="1557947120161">
+        <mark key="'" line="249" column="0" />
+      </file>
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Prepare/Prepare.ts" timestamp="1557864402376">
+        <mark key="'" line="551" column="12" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1557957192005">
         <mark key="'" line="0" column="0" />
@@ -44,14 +95,11 @@
       <file name="$USER_HOME$/Downloads/test2_[v4.23.19]_Lubben_Fund_LP_-_80211_-_Offering_Materials(1_NoAuth.json" timestamp="1557784166693">
         <mark key="'" line="255" column="32" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/PrepareHeader/PrepareHeader.ts" timestamp="1557946200461">
-        <mark key="'" line="204" column="14" />
-      </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" timestamp="1557949775762">
         <mark key="'" line="79" column="36" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/translations/locale-en.json" timestamp="1559335844096">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/office-work/martini-app/translations/locale-en.json" timestamp="1559589646719">
+        <mark key="'" line="4128" column="90" />
         <mark key="[" line="4139" column="44" />
         <mark key="]" line="4139" column="45" />
         <mark key="^" line="4139" column="44" />
@@ -69,11 +117,6 @@
         <mark key="]" line="50" column="1" />
         <mark key="^" line="50" column="1" />
         <mark key="." line="50" column="1" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559149110860">
-        <mark key="'" line="40" column="4" />
-        <mark key="[" line="227" column="4" />
-        <mark key="]" line="227" column="25" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" timestamp="1559083810334">
         <mark key="'" line="57" column="28" />
@@ -95,9 +138,6 @@
       <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Prepare/Prepare.ts" timestamp="1557778401593">
         <mark key="'" line="199" column="28" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Document/SupplementalDocumentView.ts" timestamp="1557254916648">
-        <mark key="'" line="213" column="15" />
-      </file>
       <file name="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" timestamp="1559086649303">
         <mark key="'" line="314" column="9" />
       </file>
@@ -114,27 +154,11 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/tagger/singletons/actionManager.js" timestamp="1557255411909">
         <mark key="'" line="487" column="3" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Tagger/Plugin/PreviewSupplementalDocument.ts" timestamp="1557776206545">
-        <mark key="'" line="4" column="65" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1559270644074">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" timestamp="1557946791311">
-        <mark key="'" line="674" column="11" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/CustomTabEditorInput.ts" timestamp="1557955894634">
-        <mark key="'" line="89" column="47" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" timestamp="1559589086337">
-        <mark key="'" line="243" column="37" />
-      </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/brand.js" timestamp="1557789273011">
         <mark key="'" line="33" column="36" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" timestamp="1559589752610">
+        <mark key="'" line="59" column="12" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/setup.js" timestamp="1557159696913">
         <mark key="'" line="29" column="17" />
@@ -146,20 +170,8 @@
         <mark key="^" line="98" column="9" />
         <mark key="." line="98" column="9" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/controllers/PrepareController.js" timestamp="1557777272009">
-        <mark key="'" line="327" column="19" />
-      </file>
-      <file name="$USER_HOME$/office-work/martini-app/package.json" timestamp="1557952011700">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/SupplementalDocumentPropertiesPanel/SupplementalDocumentPropertiesPanel.ts" timestamp="1557871695139">
-        <mark key="'" line="84" column="47" />
-      </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" timestamp="1557867961769">
         <mark key="'" line="61" column="20" />
-      </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Core/SvgView.ts" timestamp="1557254864822">
-        <mark key="'" line="567" column="33" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/CustomFields/edit-custom-fields.html" timestamp="1557952892354">
         <mark key="'" line="20" column="31" />
@@ -173,30 +185,8 @@
         <mark key="^" line="257" column="63" />
         <mark key="." line="257" column="63" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
-        <mark key="'" line="76" column="47" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1122" column="37" filename="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" />
-      <jump line="282" column="20" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" />
-      <jump line="61" column="20" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" />
-      <jump line="84" column="47" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/SupplementalDocumentPropertiesPanel/SupplementalDocumentPropertiesPanel.ts" />
-      <jump line="674" column="11" filename="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" />
-      <jump line="204" column="14" filename="$USER_HOME$/office-work/prepare/src/Components/PrepareHeader/PrepareHeader.ts" />
-      <jump line="0" column="7" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/Model.ts" />
-      <jump line="704" column="4" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" />
-      <jump line="18" column="4" filename="$USER_HOME$/office-work/martini-app/angular/common/services/API/APIWrapper.js" />
-      <jump line="79" column="36" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" />
-      <jump line="6" column="5" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="5" column="4" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="271" column="29" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Envelope/EnvelopeModel.ts" />
-      <jump line="104" column="13" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Envelope/EnvelopeModel.ts" />
-      <jump line="272" column="17" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Envelope/EnvelopeModel.ts" />
-      <jump line="142" column="20" filename="$USER_HOME$/office-work/prepare/node_modules/@types/backbone/index.d.ts" />
-      <jump line="95" column="53" filename="$USER_HOME$/office-work/martini-app/angular/preferences/custom-fields/custom-field-list-controller.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/angular/preferences/custom-fields/custom-field-list-controller.js" />
       <jump line="154" column="2" filename="$USER_HOME$/office-work/martini-app/angular/preferences/custom-fields/custom-field-list-controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/package.json" />
       <jump line="22" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/CustomFields/edit-custom-fields.html" />
@@ -278,6 +268,25 @@
       <jump line="752" column="6" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/translations/locale-en.json" />
       <jump line="243" column="37" filename="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" />
+      <jump line="4128" column="90" filename="$USER_HOME$/office-work/martini-app/translations/locale-en.json" />
+      <jump line="209" column="22" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentProxy.ts" />
+      <jump line="167" column="4" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Core/Moderation/ModelProxy.ts" />
+      <jump line="206" column="0" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentProxy.ts" />
+      <jump line="23" column="45" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentProxy.ts" />
+      <jump line="73" column="12" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" />
+      <jump line="90" column="40" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" />
+      <jump line="96" column="9" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" />
+      <jump line="4" column="5" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" />
+      <jump line="59" column="12" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" />
+      <jump line="89" column="10" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentModel.ts" />
+      <jump line="159" column="11" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/EnvelopeBuilder/Document/DocumentProxy.ts" />
+      <jump line="42" column="4" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="293" column="22" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="314" column="25" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="45" column="15" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="200" column="12" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="318" column="0" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
+      <jump line="322" column="15" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -290,7 +299,7 @@
         <text>isSigningGroup</text>
       </register>
       <register name="/" type="4">
-        <text>openSi</text>
+        <text encoding="base64">XDxUYWJNb2RlbFw+</text>
       </register>
       <register name="0" type="4">
         <text>enableSealRecipientType</text>
@@ -324,22 +333,18 @@
         <text encoding="base64">c2V0IG51Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
-      <last-search>openSi</last-search>
+      <last-search encoding="base64">XDxUYWJNb2RlbFw+</last-search>
       <last-offset />
-      <last-pattern>openSi</last-pattern>
+      <last-pattern encoding="base64">XDxUYWJNb2RlbFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Size</entry>
-        <entry>customTabEditor</entry>
-        <entry>basic</entry>
-        <entry>wi:wa</entry>
         <entry>sizeSe</entry>
         <entry encoding="base64">XDxhbGxvd1N1cHBsZW1lbnRhbERvY3VtZW50c1w+</entry>
         <entry>tabs</entry>
@@ -356,6 +361,10 @@
         <entry>feature</entry>
         <entry>Feat</entry>
         <entry>openSi</entry>
+        <entry encoding="base64">XDxEb2N1bWVudE1vZGVsQXR0cmlidXRlc1w+</entry>
+        <entry>recipientId</entry>
+        <entry>docuementId</entry>
+        <entry encoding="base64">XDxUYWJNb2RlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoActions</entry>
@@ -373,11 +382,11 @@
         <entry>action RecentFiles</entry>
         <entry>action CloseEditor</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
-        <entry>action GotoFile</entry>
         <entry>action ReformatWithPrettierAction</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -391,6 +400,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
