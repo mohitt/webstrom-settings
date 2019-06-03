@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/office-work/prepare/src/Components/PrepareHeader/PrepareHeader.ts" timestamp="1557946200461">
         <mark key="'" line="204" column="14" />
       </file>
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/ModelDao.ts" timestamp="1559594328482">
+        <mark key="'" line="105" column="33" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" timestamp="1559592800371">
         <mark key="'" line="568" column="41" />
       </file>
@@ -173,8 +176,8 @@
         <mark key="^" line="98" column="9" />
         <mark key="." line="98" column="9" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" timestamp="1557867961769">
-        <mark key="'" line="61" column="20" />
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" timestamp="1559594288940">
+        <mark key="'" line="68" column="24" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/CustomFields/edit-custom-fields.html" timestamp="1557952892354">
         <mark key="'" line="20" column="31" />
@@ -193,10 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/CustomFields/EditCustomFields.ts" />
-      <jump line="20" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/CustomFields/edit-custom-fields.html" />
-      <jump line="549" column="41" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="206" column="42" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
       <jump line="337" column="35" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
       <jump line="72" column="40" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/CustomTabEditorInput.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/edit-custom-tab-input.html" />
@@ -293,6 +292,10 @@
       <jump line="619" column="28" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
       <jump line="568" column="41" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
       <jump line="25" column="21" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/AllEnvelopeModels.ts" />
+      <jump line="73" column="4" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="68" column="24" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" />
+      <jump line="64" column="5" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="105" column="33" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/ModelDao.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
