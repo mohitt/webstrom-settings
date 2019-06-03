@@ -58,10 +58,10 @@
         <mark key="." line="4139" column="45" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" timestamp="1559334951414">
-        <mark key="'" line="752" column="6" />
+        <mark key="'" line="753" column="6" />
         <mark key="[" line="593" column="16" />
         <mark key="]" line="593" column="57" />
-        <mark key="^" line="594" column="3" />
+        <mark key="^" line="595" column="3" />
         <mark key="." line="593" column="16" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Document/DocumentProxyCollection.ts" timestamp="1557957182381">
@@ -72,8 +72,8 @@
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" timestamp="1559149110860">
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="226" column="4" />
-        <mark key="]" line="226" column="25" />
+        <mark key="[" line="227" column="4" />
+        <mark key="]" line="227" column="25" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" timestamp="1559083810334">
         <mark key="'" line="57" column="28" />
@@ -111,7 +111,6 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Utility/angularViewHookUtil.ts" timestamp="1559083952680" />
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/tagger/singletons/actionManager.js" timestamp="1557255411909">
         <mark key="'" line="487" column="3" />
       </file>
@@ -131,9 +130,8 @@
         <mark key="." line="15" column="14" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/templates/templates/template-detail.html" timestamp="1559331822552" />
-      <file name="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" timestamp="1557785899847">
-        <mark key="'" line="230" column="4" />
+      <file name="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" timestamp="1559589086337">
+        <mark key="'" line="243" column="37" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/brand.js" timestamp="1557789273011">
         <mark key="'" line="33" column="36" />
@@ -169,7 +167,6 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/API/APIWrapper.js" timestamp="1557949748164">
         <mark key="'" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/Tagger/Core/PaintBrush.ts" timestamp="1559084237769" />
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1559335001047">
         <mark key="[" line="257" column="42" />
         <mark key="]" line="257" column="63" />
@@ -179,10 +176,8 @@
       <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
         <mark key="'" line="76" column="47" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/templates/controllers/TemplateDetailController.js" timestamp="1559331949080" />
     </filemarks>
     <jumps>
-      <jump line="1081" column="32" filename="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" />
       <jump line="1122" column="37" filename="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" />
       <jump line="282" column="20" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" />
       <jump line="61" column="20" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Tab/TabDao.ts" />
@@ -282,6 +277,7 @@
       <jump line="593" column="5" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="752" column="6" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/translations/locale-en.json" />
+      <jump line="243" column="37" filename="$USER_HOME$/office-work/prepare/src/Components/Documents/DocumentEditorController.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
