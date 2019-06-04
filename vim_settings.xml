@@ -44,9 +44,6 @@
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/Plugin/PreviewSupplementalDocument.ts" timestamp="1557776206545">
         <mark key="'" line="4" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1559270644074">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/Interaction/envelopeInteractions.ts" timestamp="1557946791311">
         <mark key="'" line="674" column="11" />
       </file>
@@ -101,8 +98,8 @@
       <file name="$USER_HOME$/Downloads/test2_[v4.23.19]_Lubben_Fund_LP_-_80211_-_Offering_Materials(1_NoAuth.json" timestamp="1557784166693">
         <mark key="'" line="255" column="32" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" timestamp="1557949775762">
-        <mark key="'" line="79" column="36" />
+      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" timestamp="1559605116986">
+        <mark key="'" line="756" column="4" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/translations/locale-en.json" timestamp="1559589646719">
         <mark key="'" line="4128" column="90" />
@@ -197,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="40" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/CustomTabEditorInput.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/edit-custom-tab-input.html" />
       <jump line="34" column="34" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
       <jump line="250" column="9" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
@@ -297,6 +293,7 @@
       <jump line="64" column="5" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
       <jump line="105" column="33" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/ModelDao.ts" />
       <jump line="56" column="52" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
+      <jump line="756" column="4" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -309,7 +306,7 @@
         <text>isSigningGroup</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYWJNb2RlbFw+</text>
+        <text encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</text>
       </register>
       <register name="0" type="4">
         <text>enableSealRecipientType</text>
@@ -347,15 +344,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUYWJNb2RlbFw+</last-search>
+      <last-search encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYWJNb2RlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sizeSe</entry>
         <entry encoding="base64">XDxhbGxvd1N1cHBsZW1lbnRhbERvY3VtZW50c1w+</entry>
         <entry>tabs</entry>
         <entry encoding="base64">XDxwcmVwYXJlXD4=</entry>
@@ -375,6 +371,7 @@
         <entry>recipientId</entry>
         <entry>docuementId</entry>
         <entry encoding="base64">XDxUYWJNb2RlbFw+</entry>
+        <entry encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoActions</entry>
