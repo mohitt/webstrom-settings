@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Comment/CommentProxy.ts" timestamp="1557953492532">
         <mark key="'" line="53" column="57" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" timestamp="1559668943130">
+        <mark key="'" line="5724" column="12" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/core/services/settings.js" timestamp="1559668966060">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/Comments/CommentMessageView/CommentMessageView.ts" timestamp="1557953589164">
         <mark key="'" line="0" column="0" />
       </file>
@@ -194,11 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/edit-custom-tab-input.html" />
-      <jump line="34" column="34" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="250" column="9" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="205" column="61" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="207" column="17" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
       <jump line="65" column="33" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
       <jump line="142" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
       <jump line="53" column="57" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Comment/CommentProxy.ts" />
@@ -294,6 +295,11 @@
       <jump line="105" column="33" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/ModelDao.ts" />
       <jump line="56" column="52" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Persistence/EnvelopePersistenceManager.ts" />
       <jump line="756" column="4" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Recipient/Model/RecipientModel.ts" />
+      <jump line="5660" column="4" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" />
+      <jump line="5735" column="12" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" />
+      <jump line="5724" column="12" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/core/services/settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -306,7 +312,7 @@
         <text>isSigningGroup</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</text>
+        <text>Font</text>
       </register>
       <register name="0" type="4">
         <text>enableSealRecipientType</text>
@@ -344,16 +350,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</last-search>
+      <last-search>Font</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</last-pattern>
+      <last-pattern>Font</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGxvd1N1cHBsZW1lbnRhbERvY3VtZW50c1w+</entry>
-        <entry>tabs</entry>
         <entry encoding="base64">XDxwcmVwYXJlXD4=</entry>
         <entry>prepare</entry>
         <entry encoding="base64">XDxwcmVwYXJlTW9kZWxTdG9yZVw+</entry>
@@ -372,6 +376,8 @@
         <entry>docuementId</entry>
         <entry encoding="base64">XDxUYWJNb2RlbFw+</entry>
         <entry encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</entry>
+        <entry>tabFont</entry>
+        <entry>Font</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoActions</entry>
