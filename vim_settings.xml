@@ -224,7 +224,11 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/API/APIWrapper.js" timestamp="1557949748164">
         <mark key="'" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1560284686078" />
+      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1560290397010">
+        <mark key="[" line="260" column="73" />
+        <mark key="]" line="260" column="73" />
+        <mark key="." line="260" column="73" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/AllEnvelopeModels.ts" timestamp="1559592805250">
         <mark key="'" line="25" column="21" />
       </file>
@@ -339,7 +343,7 @@
         <text>enableJPMCQuickSendFix</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBvbiA=</text>
+        <text>recipient-{{recipCtrl.recipient.id}}-signing-group-modal-button</text>
       </register>
       <register name="/" type="4">
         <text>host-name</text>
@@ -376,7 +380,7 @@
         <text encoding="base64">ICAgICAgMTQyZGVmMTc2M2Q2MDNjZDg3NTJmMjM1YTk4ODg1ZWVmZmFhZDBmYwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -423,13 +427,13 @@
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>action ReformatWithPrettierAction</entry>
-        <entry>w</entry>
         <entry>action GotoAction</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action RecentFiles</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoFile</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
