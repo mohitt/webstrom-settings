@@ -44,6 +44,16 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="62" column="18" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.html" timestamp="1560275864922">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/common/services/Reactor/Resources/Resources.js" timestamp="1560275212251">
+        <mark key="'" line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Document/SupplementalDocumentView.ts" timestamp="1557254916648">
         <mark key="'" line="213" column="15" />
       </file>
@@ -78,6 +88,9 @@
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Core/SvgView.ts" timestamp="1557254864822">
         <mark key="'" line="567" column="33" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" timestamp="1560275372301">
+        <mark key="'" line="52" column="13" />
+      </file>
       <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
         <mark key="'" line="76" column="47" />
       </file>
@@ -93,13 +106,12 @@
       <file name="$USER_HOME$/office-work/prepare/src/Components/Prepare/Prepare.ts" timestamp="1559592692558">
         <mark key="'" line="297" column="48" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Envelope/EnvelopeDao.ts" timestamp="1559596518592" />
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1557957192005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1560274646125">
+        <mark key="'" line="2" column="28" />
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Downloads/test2_[v4.23.19]_Lubben_Fund_LP_-_80211_-_Offering_Materials(1_NoAuth.json" timestamp="1557784166693">
         <mark key="'" line="255" column="32" />
@@ -114,7 +126,6 @@
         <mark key="^" line="4139" column="44" />
         <mark key="." line="4139" column="45" />
       </file>
-      <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/CommentThread/CommentThreadDao.ts" timestamp="1559596170480" />
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" timestamp="1559334951414">
         <mark key="'" line="753" column="6" />
         <mark key="[" line="593" column="16" />
@@ -164,6 +175,12 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/tagger/singletons/actionManager.js" timestamp="1557255411909">
         <mark key="'" line="487" column="3" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" timestamp="1560275299468">
+        <mark key="'" line="5" column="65" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/getters.js" timestamp="1560274371873">
+        <mark key="'" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/brand.js" timestamp="1557789273011">
         <mark key="'" line="33" column="36" />
       </file>
@@ -200,32 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="33" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="142" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="53" column="57" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Comment/CommentProxy.ts" />
-      <jump line="52" column="20" filename="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Document/DocumentProxyCollection.ts" />
-      <jump line="23" column="25" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/Comments/CommentMessageView/CommentMessageView.ts" />
-      <jump line="107" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/Comments/CommentMessageView/CommentMessageView.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/Comments/CommentMessageView/CommentMessageView.ts" />
-      <jump line="187" column="9" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="222" column="9" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="0" column="17" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/edit-custom-tab-input.html" />
-      <jump line="345" column="32" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="325" column="32" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="63" column="54" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="144" column="0" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/EditCustomTabModal.ts" />
-      <jump line="64" column="37" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/edit-custom-tab-modal.html" />
-      <jump line="19" column="31" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/edit-custom-tab-input.html" />
-      <jump line="93" column="47" filename="$USER_HOME$/office-work/prepare/src/Components/Tagger/EditCustomTabModal/CustomTabEditorInput/CustomTabEditorInput.ts" />
-      <jump line="15" column="25" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/name-editor.html" />
-      <jump line="57" column="28" filename="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/Tab/TabView.ts" />
-      <jump line="25" column="15" filename="$USER_HOME$/office-work/prepare/src/Tagger/View/PageMarkup/PageMarkupView.ts" />
-      <jump line="40" column="4" filename="$USER_HOME$/office-work/prepare/src/Singletons/Featured.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" />
-      <jump line="382" column="9" filename="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" />
-      <jump line="314" column="9" filename="$USER_HOME$/Downloads/Untitled_28_May_2019___23_43.json" />
-      <jump line="1273" column="4" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
-      <jump line="0" column="8" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="14" column="12" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="390" column="12" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="391" column="16" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
@@ -300,6 +291,32 @@
       <jump line="5735" column="12" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" />
       <jump line="5724" column="12" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/experiments.json" />
       <jump line="0" column="0" filename="$USER_HOME$/office-work/martini-app/core/services/settings.js" />
+      <jump line="6" column="17" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/getters.js" />
+      <jump line="2" column="28" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="209" column="6" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="157" column="10" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="189" column="8" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="190" column="8" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="210" column="6" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="164" column="10" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="197" column="14" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="207" column="6" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="187" column="8" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="43" column="15" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Reactor/Resources/Resources.js" />
+      <jump line="16" column="33" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="26" column="20" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Reactor/Resources/Envelopes/Resource.js" />
+      <jump line="149" column="37" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="71" column="8" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Reactor/Resources/Resources.js" />
+      <jump line="40" column="8" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Reactor/Resources/Resources.js" />
+      <jump line="154" column="38" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="5" column="65" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" />
+      <jump line="48" column="13" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" />
+      <jump line="52" column="13" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" />
+      <jump line="75" column="4" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" />
+      <jump line="37" column="30" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.html" />
+      <jump line="188" column="22" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -309,62 +326,55 @@
         <text>enableJPMCQuickSendFix</text>
       </register>
       <register name="-" type="4">
-        <text>isSigningGroup</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Font</text>
+        <text>icon-voided</text>
       </register>
-      <register name="0" type="4">
-        <text>enableSealRecipientType</text>
+      <register name="0" type="2">
+        <text encoding="base64">bm5vcmVtYXAgPExlYWRlcj52ZSA6ZSB+Ly5pZGVhdmltcmM8Q1I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJpYS1oaWRkZW49InRydWUiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">bm5vcmVtYXAgPExlYWRlcj5WIDpzb3VyY2Ugfi8uaWRlYXZpbXJjPENSPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH07Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{
       return (</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgJHNjb3BlLnJlY2lwaWVudCA9IHJlY2lwaWVudDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWlmPSJyZWNpcGllbnQuc2lnbmluZ0dyb3VwTmFtZSIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgMTQyZGVmMTc2M2Q2MDNjZDg3NTJmMjM1YTk4ODg1ZWVmZmFhZDBmYwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIGN0ZWktZHF3LW51bWJlcj0iaW5wdXQuaXNOdW1iZXIiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bm1hcCA8RjQ+IDpzZXQgaGxzZWFyY2gK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2V0IG51Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Font</last-search>
+      <last-search>icon-voided</last-search>
       <last-offset />
-      <last-pattern>Font</last-pattern>
+      <last-pattern>icon-voided</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXJlXD4=</entry>
-        <entry>prepare</entry>
-        <entry encoding="base64">XDxwcmVwYXJlTW9kZWxTdG9yZVw+</entry>
-        <entry>signingGroup</entry>
-        <entry>rootScope</entry>
-        <entry>featured</entry>
-        <entry>signing</entry>
         <entry encoding="base64">XDxyZWNpcGllbnRTaWduaW5nR3JvdXBVc2Vyc1w+</entry>
         <entry>SigningGr</entry>
         <entry>openSign</entry>
@@ -378,28 +388,35 @@
         <entry encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</entry>
         <entry>tabFont</entry>
         <entry>Font</entry>
+        <entry encoding="base64">XDx1c2VyU3RhdHVzSWNvblw+</entry>
+        <entry>voided</entry>
+        <entry encoding="base64">XDxyb3dTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDx1c2VyU3RhdHVzXD4=</entry>
+        <entry>status</entry>
+        <entry encoding="base64">XDxhd2FpdGluZ19teV9zaWduYXR1cmVcPg==</entry>
+        <entry>icon-voided</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoActions</entry>
-        <entry>action GotoAction</entry>
-        <entry>action ReformatWithPrettier</entry>
-        <entry>action ShowUsages</entry>
-        <entry>!ls</entry>
-        <entry encoding="base64">YWN0aW9ubGlzdCA+IG91dHB1dC50eHQ=</entry>
-        <entry>e output.txt</entry>
         <entry>actionlist</entry>
         <entry>action :CloseActiveTab</entry>
         <entry>action :CloseEditor</entry>
         <entry>action CloseActiveTab</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action RecentFiles</entry>
         <entry>action CloseEditor</entry>
         <entry>action PreviousTab</entry>
-        <entry>action ReformatWithPrettierAction</entry>
         <entry>wa</entry>
-        <entry>w</entry>
-        <entry>action GotoFile</entry>
         <entry>action NextTab</entry>
+        <entry>map</entry>
+        <entry>actionslist</entry>
+        <entry>actions</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>wq</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ReformatWithPrettierAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
