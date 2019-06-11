@@ -100,6 +100,12 @@
       <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentsEditor/DocumentsEditor.ts" timestamp="1557776667053">
         <mark key="'" line="76" column="47" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageSide/foldersTree/folders-tree.html" timestamp="1560286716950">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Page/PageModel.ts" timestamp="1552337092069">
         <mark key="'" line="16" column="25" />
       </file>
@@ -218,12 +224,7 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/API/APIWrapper.js" timestamp="1557949748164">
         <mark key="'" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1560284686078">
-        <mark key="[" line="260" column="93" />
-        <mark key="]" line="260" column="99" />
-        <mark key="^" line="260" column="99" />
-        <mark key="." line="260" column="99" />
-      </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1560284686078" />
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/AllEnvelopeModels.ts" timestamp="1559592805250">
         <mark key="'" line="25" column="21" />
       </file>
@@ -338,7 +339,7 @@
         <text>enableJPMCQuickSendFix</text>
       </register>
       <register name="-" type="4">
-        <text>https://old-artifactory.docusignhq.com/artifactory/docusign-public/martini-prepare/master/index.js</text>
+        <text encoding="base64">LCBvbiA=</text>
       </register>
       <register name="/" type="4">
         <text>PREPARE</text>
@@ -424,10 +425,10 @@
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>action ReformatWithPrettierAction</entry>
-        <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
+        <entry>action FindInPath</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
