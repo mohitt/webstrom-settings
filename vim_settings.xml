@@ -31,6 +31,12 @@
       <file name="$USER_HOME$/office-work/prepare/src/Components/Interaction/recipientDocumentInteractions.ts" timestamp="1557867811995">
         <mark key="'" line="365" column="4" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/static.js" timestamp="1560284911197">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="122" />
+        <mark key="." line="49" column="5" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/PrepareHeader/PrepareHeader.ts" timestamp="1557946200461">
         <mark key="'" line="204" column="14" />
       </file>
@@ -44,12 +50,12 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="62" column="18" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.html" timestamp="1560282694815">
-        <mark key="'" line="36" column="30" />
-        <mark key="[" line="32" column="78" />
-        <mark key="]" line="32" column="79" />
+      <file name="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.html" timestamp="1560284563308">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="43" column="8" />
         <mark key="^" line="32" column="60" />
-        <mark key="." line="32" column="79" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/Reactor/Resources/Resources.js" timestamp="1560275212251">
         <mark key="'" line="71" column="8" />
@@ -212,18 +218,17 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/API/APIWrapper.js" timestamp="1557949748164">
         <mark key="'" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1559335001047">
-        <mark key="[" line="257" column="42" />
-        <mark key="]" line="257" column="63" />
-        <mark key="^" line="257" column="63" />
-        <mark key="." line="257" column="63" />
+      <file name="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/edit-recipient-view.html" timestamp="1560284686078">
+        <mark key="[" line="260" column="93" />
+        <mark key="]" line="260" column="99" />
+        <mark key="^" line="260" column="99" />
+        <mark key="." line="260" column="99" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/EnvelopeBuilder/Core/Model/AllEnvelopeModels.ts" timestamp="1559592805250">
         <mark key="'" line="25" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="12" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="390" column="12" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="391" column="16" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="1099" column="35" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
@@ -323,6 +328,7 @@
       <jump line="75" column="4" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/common/envelopes.config.js" />
       <jump line="37" column="30" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.html" />
       <jump line="188" column="22" filename="$USER_HOME$/office-work/martini-app/angular/components/envelopes/envelope-list/envelopesPageMain/envelopesListView/envelopesListItem/envelopes-list-item.component.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/static.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -332,13 +338,13 @@
         <text>enableJPMCQuickSendFix</text>
       </register>
       <register name="-" type="4">
-        <text>{{ &quot;Expiring soon&quot; | dsTranslate }}</text>
+        <text>https://old-artifactory.docusignhq.com/artifactory/docusign-public/martini-prepare/master/index.js</text>
       </register>
       <register name="/" type="4">
-        <text>icon-voided</text>
+        <text>PREPARE</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPExlYWRlcj52ZSA6ZSB+Ly5pZGVhdmltcmM8Q1I+Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;recipient-{{recipCtrl.recipient.id}}-fax-validation&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idmgiIG5nLXN3aXRjaC13aGVuPSJ0cnVlIj48L3NwYW4+Cg==</text>
@@ -373,15 +379,14 @@
       </register>
     </registers>
     <search>
-      <last-search>icon-voided</last-search>
+      <last-search>PREPARE</last-search>
       <last-offset />
-      <last-pattern>icon-voided</last-pattern>
+      <last-pattern>PREPARE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNpcGllbnRTaWduaW5nR3JvdXBVc2Vyc1w+</entry>
         <entry>SigningGr</entry>
         <entry>openSign</entry>
         <entry>feature</entry>
@@ -401,6 +406,7 @@
         <entry>status</entry>
         <entry encoding="base64">XDxhd2FpdGluZ19teV9zaWduYXR1cmVcPg==</entry>
         <entry>icon-voided</entry>
+        <entry>PREPARE</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -417,10 +423,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
-        <entry>action GotoAction</entry>
-        <entry>action GotoFile</entry>
         <entry>action ReformatWithPrettierAction</entry>
         <entry>action FindInPath</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>w</entry>
       </history-cmd>
