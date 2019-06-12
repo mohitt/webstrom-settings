@@ -63,6 +63,9 @@
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Document/SupplementalDocumentView.ts" timestamp="1557254916648">
         <mark key="'" line="213" column="15" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentEditorController.ts" timestamp="1560361285311">
+        <mark key="'" line="69" column="56" />
+      </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/Plugin/PreviewSupplementalDocument.ts" timestamp="1557776206545">
         <mark key="'" line="4" column="65" />
       </file>
@@ -93,6 +96,9 @@
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Components/Tagger/SupplementalDocumentPropertiesPanel/SupplementalDocumentPropertiesPanel.ts" timestamp="1557871695139">
         <mark key="'" line="84" column="47" />
+      </file>
+      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentCard/DocumentCard.ts" timestamp="1560361172168">
+        <mark key="'" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/office-work/prepare/src/Tagger/View/Core/SvgView.ts" timestamp="1557254864822">
         <mark key="'" line="567" column="33" />
@@ -199,6 +205,9 @@
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/Settings/getters.js" timestamp="1560274371873">
         <mark key="'" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentCard/document-card.html" timestamp="1560361169082">
+        <mark key="'" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/office-work/martini-app/angular/common/services/brand.js" timestamp="1557789273011">
         <mark key="'" line="33" column="36" />
       </file>
@@ -234,10 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="33" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
-      <jump line="364" column="12" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
-      <jump line="164" column="4" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
-      <jump line="193" column="26" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="52" column="4" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="595" column="25" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
       <jump line="131" column="0" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/components/editNewRecipient.js" />
@@ -334,6 +339,10 @@
       <jump line="5" column="20" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/host-name-editor.html" />
       <jump line="24" column="14" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/host-name-editor.html" />
       <jump line="25" column="19" filename="$USER_HOME$/office-work/martini-app/angular/envelopes/recipients/templates/recipient-row/host-name-editor.html" />
+      <jump line="3" column="14" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentCard/document-card.html" />
+      <jump line="9" column="32" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentCard/DocumentCard.ts" />
+      <jump line="61" column="4" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentEditorController.ts" />
+      <jump line="69" column="56" filename="$USER_HOME$/office-work/martini-app/node_modules/@ds/prepare/src/Components/Documents/DocumentEditorController.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -346,7 +355,7 @@
         <text>recipient-{{recipCtrl.recipient.id}}-signing-group-modal-button</text>
       </register>
       <register name="/" type="4">
-        <text>host-name</text>
+        <text encoding="base64">XDxkb2N1bWVudElzVXBsb2FkaW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;recipient-{{recipCtrl.recipient.id}}-fax-validation&quot;</text>
@@ -380,23 +389,18 @@
         <text encoding="base64">ICAgICAgMTQyZGVmMTc2M2Q2MDNjZDg3NTJmMjM1YTk4ODg1ZWVmZmFhZDBmYwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>host-name</last-search>
+      <last-search encoding="base64">XDxkb2N1bWVudElzVXBsb2FkaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>host-name</last-pattern>
+      <last-pattern encoding="base64">XDxkb2N1bWVudElzVXBsb2FkaW5nXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feature</entry>
-        <entry>Feat</entry>
-        <entry>openSi</entry>
-        <entry encoding="base64">XDxEb2N1bWVudE1vZGVsQXR0cmlidXRlc1w+</entry>
-        <entry>recipientId</entry>
         <entry>docuementId</entry>
         <entry encoding="base64">XDxUYWJNb2RlbFw+</entry>
         <entry encoding="base64">XDxjYW5IYXZlVGFiQ2hhbmdlc1w+</entry>
@@ -412,6 +416,11 @@
         <entry>PREPARE</entry>
         <entry>data-qa</entry>
         <entry>host-name</entry>
+        <entry>isDocument</entry>
+        <entry>isDocu</entry>
+        <entry encoding="base64">XDxzaG91bGRTaG93RGlzYWJsZWRTdGF0ZVw+</entry>
+        <entry>documentIsU</entry>
+        <entry encoding="base64">XDxkb2N1bWVudElzVXBsb2FkaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
@@ -432,8 +441,8 @@
         <entry>action NextTab</entry>
         <entry>action RecentFiles</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>w</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
